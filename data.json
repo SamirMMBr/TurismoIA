@@ -1,0 +1,1435 @@
+[
+  {
+    "nome": "Torre de Tokyo",
+    "descricao": "Torre de comunicação e observação, inspirada na Torre Eiffel, um ícone da cidade de Tóquio com duas plataformas de observação.",
+    "ano": "1958",
+    "link": "https://www.tokyotower.co.jp/",
+    "tags": [
+      "torre",
+      "observacao",
+      "marco-urbano",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Aquário Público do Porto de Nagoya",
+    "descricao": "Um dos maiores aquários do Japão, famoso por seus shows de golfinhos e a exibição de baleias orcas e diversas espécies marinhas.",
+    "ano": "1992",
+    "link": "https://www.nagoyaaqua.jp/",
+    "tags": [
+      "aquario",
+      "vida-marinha",
+      "familia",
+      "Nagoya"
+    ]
+  },
+  {
+    "nome": "Parque de Nara",
+    "descricao": "Grande parque urbano famoso por abrigar centenas de veados sika domesticados que circulam livremente pelo local e são considerados mensageiros dos deuses.",
+    "ano": "1880",
+    "link": "https://www.pref.nara.jp/",
+    "tags": [
+      "parque",
+      "natureza",
+      "veados-sika",
+      "patrimonio-historico"
+    ]
+  },
+  {
+    "nome": "Nagashima SpaLand",
+    "descricao": "Complexo de entretenimento que inclui um grande parque de diversões com montanhas-russas radicais, um parque aquático e onsen (águas termais).",
+    "ano": "1964",
+    "link": "https://www.nagashima-onsen.co.jp/",
+    "tags": [
+      "parque-tematico",
+      "montanha-russa",
+      "aguas-termais",
+      "diversao"
+    ]
+  },
+  {
+    "nome": "Kinkakuji (Pavilhão Dourado)",
+    "descricao": "Templo Zen Budista cuja estrutura superior é completamente coberta em folha de ouro puro, refletindo-se no lago espelhado, Patrimônio Mundial da UNESCO.",
+    "ano": "1397",
+    "link": "https://www.shokoku-ji.jp/kinkakuji/",
+    "tags": [
+      "templo",
+      "patrimonio-mundial",
+      "Kyoto",
+      "budismo-zen"
+    ]
+  },
+  {
+    "nome": "Tokyo Disneyland",
+    "descricao": "Primeiro parque da Disney construído fora dos Estados Unidos, oferecendo a experiência clássica e mágica dos parques temáticos da Disney.",
+    "ano": "1983",
+    "link": "https://www.tokyodisneyresort.jp/tdl/",
+    "tags": [
+      "parque-tematico",
+      "diversao",
+      "familia",
+      "Disney"
+    ]
+  },
+  {
+    "nome": "Tokyo DisneySea",
+    "descricao": "Parque temático exclusivo no Japão, inspirado em mitos e lendas do mar, com portos temáticos e atrações de alta qualidade, voltado para um público adulto.",
+    "ano": "2001",
+    "link": "https://www.tokyodisneyresort.jp/tds/",
+    "tags": [
+      "parque-tematico",
+      "aventura",
+      "exclusivo-japao",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "teamLab Planets TOKYO",
+    "descricao": "Museu de arte digital imersivo onde os visitantes caminham através da água e interagem com instalações de luz e som que transformam o ambiente.",
+    "ano": "2018",
+    "link": "https://planets.teamlab.art/tokyo/",
+    "tags": [
+      "arte-digital",
+      "museu-imersivo",
+      "Tokyo",
+      "moderno"
+    ]
+  },
+  {
+    "nome": "Ghibli Park",
+    "descricao": "Parque temático baseado nas obras do Studio Ghibli, como 'Meu Vizinho Totoro' e 'A Viagem de Chihiro', localizado no Parque Memorial da Expo de Aichi.",
+    "ano": "2022",
+    "link": "https://ghibli-park.jp/",
+    "tags": [
+      "parque-tematico",
+      "anime",
+      "cultura-pop",
+      "Ghibli"
+    ]
+  },
+  {
+    "nome": "Santuário de Fushimi Inari-taisha",
+    "descricao": "Santuário xintoísta famoso por seus milhares de portões (torii) vermelhos que serpenteiam pela montanha, dedicados ao deus Inari, das colheitas e do arroz.",
+    "ano": "711",
+    "link": "https://inari.jp/en/",
+    "tags": [
+      "santuario",
+      "xintoismo",
+      "Kyoto",
+      "trilha"
+    ]
+  },
+  {
+    "nome": "Dotonbori",
+    "descricao": "Famoso distrito de entretenimento, gastronomia e vida noturna em Osaka, conhecido por seus letreiros luminosos gigantes, como o Glico Man, e comidas de rua locais.",
+    "ano": "1615",
+    "link": "https://osaka-info.jp/page/dotonbori",
+    "tags": [
+      "gastronomia",
+      "vida-noturna",
+      "Osaka",
+      "entretenimento"
+    ]
+  },
+  {
+    "nome": "Shibuya Sky",
+    "descricao": "Deck de observação a 230 metros de altura no topo do arranha-céu Shibuya Scramble Square, oferecendo vistas 360 graus do famoso cruzamento de Shibuya e da cidade.",
+    "ano": "2019",
+    "link": "https://www.shibuya-scramble-square.com/sky/",
+    "tags": [
+      "observacao",
+      "arranha-ceu",
+      "Tokyo",
+      "vistas-panoramicas"
+    ]
+  },
+  {
+    "nome": "Museu Nacional de Tóquio (TNM)",
+    "descricao": "O maior e mais antigo museu do Japão, focado na coleta e preservação de artefatos da cultura japonesa e asiática, localizado no Parque Ueno.",
+    "ano": "1872",
+    "link": "https://www.tnm.jp/",
+    "tags": [
+      "museu",
+      "historia",
+      "artefatos",
+      "cultura-japonesa"
+    ]
+  },
+  {
+    "nome": "Castelo de Himeji (Garça Branca)",
+    "descricao": "Um dos castelos mais belos e preservados do Japão, famoso por sua arquitetura elegante e complexa, e Patrimônio Mundial da UNESCO.",
+    "ano": "1333",
+    "link": "https://www.himejicastle.jp/",
+    "tags": [
+      "castelo",
+      "patrimonio-mundial",
+      "arquitetura-militar",
+      "historia"
+    ]
+  },
+  {
+    "nome": "Floresta de Bambu de Arashiyama",
+    "descricao": "Caminho pitoresco e etéreo através de um denso bosque de bambus gigantes nos arredores de Kyoto, oferecendo uma experiência sonora única.",
+    "ano": "1800",
+    "link": "https://kyoto.travel/en/",
+    "tags": [
+      "natureza",
+      "Kyoto",
+      "paisagem",
+      "tranquilidade"
+    ]
+  },
+  {
+    "nome": "CupNoodles Museum Yokohama",
+    "descricao": "Museu interativo dedicado à história do macarrão instantâneo, onde os visitantes podem criar seu próprio Cup Noodle personalizado e aprender sobre a invenção.",
+    "ano": "2011",
+    "link": "https://www.cupnoodles-museum.jp/ja/yokohama/",
+    "tags": [
+      "museu",
+      "gastronomia",
+      "interativo",
+      "Yokohama"
+    ]
+  },
+  {
+    "nome": "Omoide Yokocho (Memory Lane)",
+    "descricao": "Beco estreito e atmosférico em Shinjuku, Tóquio, repleto de pequenos izakayas e barracas de yakitori, evocando a Tóquio do pós-guerra.",
+    "ano": "1946",
+    "link": "https://omoide-yokocho.com/",
+    "tags": [
+      "gastronomia",
+      "Shinjuku",
+      "retro",
+      "vida-noturna"
+    ]
+  },
+  {
+    "nome": "Ilha de Miyajima (Itsukushima)",
+    "descricao": "Famosa por seu icônico portão torii 'flutuante' no Santuário de Itsukushima, um local sagrado e um dos cenários mais fotografados do Japão.",
+    "ano": "1168",
+    "link": "https://visit-miyajima.jp/",
+    "tags": [
+      "ilha",
+      "santuario",
+      "patrimonio-mundial",
+      "paisagem-marinha"
+    ]
+  },
+  {
+    "nome": "Cabo Manzamo",
+    "descricao": "Formação rochosa costeira na ilha de Okinawa, famosa por seu penhasco em forma de tromba de elefante, oferecendo vistas espetaculares do oceano e pôr do sol.",
+    "ano": "1500",
+    "link": "https://www.visitokinawa.jp/",
+    "tags": [
+      "natureza",
+      "Okinawa",
+      "paisagem-costeira",
+      "penhasco"
+    ]
+  },
+  {
+    "nome": "Ginza Six",
+    "descricao": "Complexo de luxo e varejo de alto padrão no coração de Ginza, incluindo um terraço panorâmico, um teatro Noh e lojas de marcas globais e japonesas.",
+    "ano": "2017",
+    "link": "https://ginza6.tokyo/",
+    "tags": [
+      "shopping-luxo",
+      "arquitetura-moderna",
+      "Tokyo",
+      "varejo"
+    ]
+  },
+  {
+    "nome": "Hakone Open-Air Museum",
+    "descricao": "Primeiro museu a céu aberto do Japão, exibindo centenas de esculturas modernas e contemporâneas com as montanhas de Hakone como pano de fundo.",
+    "ano": "1969",
+    "link": "https://www.hakone-oam.or.jp/",
+    "tags": [
+      "museu-a-ceu-aberto",
+      "arte-moderna",
+      "Hakone",
+      "escultura"
+    ]
+  },
+  {
+    "nome": "Templo Sensoji, Asakusa",
+    "descricao": "O templo budista mais antigo de Tóquio, famoso por seu grande portão Kaminarimon (Portão do Trovão) e a movimentada rua comercial Nakamise-dori.",
+    "ano": "645",
+    "link": "https://www.senso-ji.jp/",
+    "tags": [
+      "templo-budista",
+      "Tokyo",
+      "historico",
+      "compras"
+    ]
+  },
+  {
+    "nome": "Universal Studios Japan (USJ)",
+    "descricao": "Um dos parques temáticos mais visitados do mundo, lar da área Super Nintendo World e atrações baseadas em filmes e cultura pop ocidental e japonesa.",
+    "ano": "2001",
+    "link": "https://www.usj.co.jp/",
+    "tags": [
+      "parque-tematico",
+      "Osaka",
+      "cultura-pop",
+      "cinema"
+    ]
+  },
+  {
+    "nome": "Mercado Nishiki",
+    "descricao": "Conhecido como 'a cozinha de Kyoto', é um movimentado mercado de rua com mais de cem lojas e restaurantes vendendo alimentos, picles e especialidades locais.",
+    "ano": "1310",
+    "link": "https://www.kyoto-nishiki.or.jp/",
+    "tags": [
+      "mercado",
+      "gastronomia",
+      "Kyoto",
+      "comida-de-rua"
+    ]
+  },
+  {
+    "nome": "Akihabara Electric Town",
+    "descricao": "Centro mundial da cultura otaku, famosa por suas lojas de eletrônicos, mangás, animes, jogos, figuras colecionáveis e maid cafés.",
+    "ano": "1950",
+    "link": "https://akihabara-japan.com/",
+    "tags": [
+      "otaku",
+      "eletronicos",
+      "anime",
+      "subcultura"
+    ]
+  },
+  {
+    "nome": "Torre de Tokyo",
+    "descricao": "Uma torre de comunicação e observação, símbolo icônico da reconstrução pós-guerra do Japão, inspirada na Torre Eiffel.",
+    "ano": "1958",
+    "link": "https://www.tokyotower.co.jp/",
+    "tags": [
+      "observação",
+      "marco",
+      "arquitetura",
+      "histórico"
+    ]
+  },
+  {
+    "nome": "Aquário de Nagoya",
+    "descricao": "Um dos maiores aquários do Japão, famoso por suas piscinas de golfinhos e baleias orcas, oferecendo shows diários e programas educacionais.",
+    "ano": "1992",
+    "link": "https://www.nagoyaaqua.jp/",
+    "tags": [
+      "aquário",
+      "marinho",
+      "Nagoya",
+      "família"
+    ]
+  },
+  {
+    "nome": "Parque de Nara",
+    "descricao": "Um grande parque público onde vivem milhares de veados selvagens e dóceis, considerados mensageiros dos deuses xintoístas.",
+    "ano": "1880",
+    "link": "https://www.pref.nara.jp/1792.htm",
+    "tags": [
+      "parque",
+      "natureza",
+      "veados",
+      "histórico"
+    ]
+  },
+  {
+    "nome": "Parque Aquático Nagashima SpaLand",
+    "descricao": "Vasto complexo de entretenimento que inclui um parque de diversões com montanhas-russas radicais, parque aquático e instalações de onsen (águas termais).",
+    "ano": "1966",
+    "link": "https://www.nagashima-onsen.co.jp/",
+    "tags": [
+      "parque temático",
+      "águas termais",
+      "diversão",
+      "montanha-russa"
+    ]
+  },
+  {
+    "nome": "Kinkakuji (Pavilhão Dourado) - Kyoto",
+    "descricao": "Templo Zen Budista, cujo andar superior é completamente coberto por folha de ouro puro, refletindo-se poeticamente no lago Kyōko-chi.",
+    "ano": "1397",
+    "link": "https://www.shokoku-ji.jp/kinkakuji/",
+    "tags": [
+      "templo",
+      "patrimônio mundial",
+      "Zen",
+      "Kyoto"
+    ]
+  },
+  {
+    "nome": "Jardim Nacional Shinjuku Gyoen",
+    "descricao": "Um grande jardim que combina três estilos distintos: paisagem francesa formal, paisagem inglesa e tradicional japonesa, um oásis no centro de Tóquio.",
+    "ano": "1906",
+    "link": "https://www.env.go.jp/garden/shinjukugyoen/",
+    "tags": [
+      "parque",
+      "jardim",
+      "natureza",
+      "Tóquio"
+    ]
+  },
+  {
+    "nome": "Museu de Arte Digital MORI Building (Azabudai)",
+    "descricao": "Um museu de arte imersiva, operado pelo coletivo teamLab, famoso por suas instalações digitais interativas e em constante mudança.",
+    "ano": "2018",
+    "link": "https://www.mori.art.museum/jp/access/",
+    "tags": [
+      "museu",
+      "arte digital",
+      "imersivo",
+      "tecnologia"
+    ]
+  },
+  {
+    "nome": "Santuário Meiji Jingu",
+    "descricao": "Santuário dedicado aos espíritos deificados do Imperador Meiji e da Imperatriz Shoken, cercado por uma vasta floresta artificial no coração de Tóquio.",
+    "ano": "1920",
+    "link": "https://www.meijijingu.or.jp/",
+    "tags": [
+      "santuário",
+      "xintoísmo",
+      "histórico",
+      "floresta"
+    ]
+  },
+  {
+    "nome": "Mercado de Peixes de Toyosu",
+    "descricao": "O maior mercado atacadista de peixes e frutos do mar do mundo, substituto do famoso Tsukiji, conhecido pelo leilão matinal de atum.",
+    "ano": "2018",
+    "link": "https://www.toyosu-market.tokyo/",
+    "tags": [
+      "mercado",
+      "gastronomia",
+      "frutos do mar",
+      "cultura alimentar"
+    ]
+  },
+  {
+    "nome": "Rua Takeshita de Harajuku",
+    "descricao": "Uma rua estreita e movimentada no distrito de Harajuku, centro da cultura pop adolescente e da moda Kawaii de Tóquio.",
+    "ano": "1970",
+    "link": "https://takeshita-street.com/",
+    "tags": [
+      "moda",
+      "cultura pop",
+      "compras",
+      "Harajuku"
+    ]
+  },
+  {
+    "nome": "Monte Koya (Koyasan)",
+    "descricao": "Centro do Budismo Shingon e Patrimônio Mundial da UNESCO, lar do templo principal Kongobu-ji e do vasto cemitério Okunoin.",
+    "ano": "816",
+    "link": "http://www.koyasan.or.jp/",
+    "tags": [
+      "templo",
+      "montanha",
+      "peregrinação",
+      "Budismo"
+    ]
+  },
+  {
+    "nome": "Museu de Arte Miho",
+    "descricao": "Um museu impressionante projetado por I.M. Pei, escondido em uma montanha perto de Kyoto, acessível por um túnel futurista.",
+    "ano": "1997",
+    "link": "https://www.miho.jp/en/",
+    "tags": [
+      "museu",
+      "arquitetura",
+      "artefatos",
+      "montanha"
+    ]
+  },
+  {
+    "nome": "Shinsekai, Osaka",
+    "descricao": "Um distrito nostálgico em Osaka, cujo nome significa 'Novo Mundo', conhecido por sua atmosfera retrô e a presença da Torre Tsutenkaku.",
+    "ano": "1912",
+    "link": "https://www.shinsekai.ne.jp/",
+    "tags": [
+      "bairro",
+      "retrô",
+      "gastronomia",
+      "Osaka"
+    ]
+  },
+  {
+    "nome": "Caminho do Filósofo (Tetsugaku no Michi)",
+    "descricao": "Um caminho de pedra cênico ao longo de um canal em Kyoto, ladeado por centenas de cerejeiras, popular durante a estação da floração.",
+    "ano": "1920",
+    "link": "https://www.kyoto-kankou.or.jp/english/sightseeing/detail.php?nid=131",
+    "tags": [
+      "passeio",
+      "natureza",
+      "Kyoto",
+      "cerejeiras"
+    ]
+  },
+  {
+    "nome": "Torre Tsutenkaku",
+    "descricao": "Uma torre de observação e símbolo icônico de Shinsekai, Osaka. Oferece vistas panorâmicas da cidade e abriga a estátua de Billiken, o deus da felicidade.",
+    "ano": "1956",
+    "link": "https://www.tsutenkaku.co.jp/",
+    "tags": [
+      "observação",
+      "marco",
+      "Osaka",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Jigokudani Monkey Park",
+    "descricao": "Famoso parque nas montanhas de Nagano, onde macacos japoneses (macacos da neve) se reúnem para se aquecer nas águas termais durante o inverno.",
+    "ano": "1964",
+    "link": "https://jigokudani-yaenkoen.co.jp/",
+    "tags": [
+      "natureza",
+      "vida selvagem",
+      "inverno",
+      "onsen"
+    ]
+  },
+  {
+    "nome": "Museu de Arte do Século 21, Kanazawa",
+    "descricao": "Um museu de arte contemporânea com um design circular inovador, conhecido por exposições interativas e a famosa 'Piscina de Natação' de Leandro Erlich.",
+    "ano": "2004",
+    "link": "https://www.kanazawa21.jp/",
+    "tags": [
+      "museu",
+      "arte moderna",
+      "arquitetura",
+      "Kanazawa"
+    ]
+  },
+  {
+    "nome": "Templo Byodo-in, Uji",
+    "descricao": "Um templo budista da era Heian, mais conhecido por seu deslumbrante 'Salão da Fênix', que aparece na moeda de 10 ienes japoneses.",
+    "ano": "1053",
+    "link": "https://www.byodoin.or.jp/en/",
+    "tags": [
+      "templo",
+      "patrimônio mundial",
+      "histórico",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Parque Nacional de Shiretoko",
+    "descricao": "Uma das áreas selvagens mais intocadas do Japão, Patrimônio Mundial da UNESCO em Hokkaido, famoso por ursos pardos e ecossistemas marinhos.",
+    "ano": "1964",
+    "link": "https://www.env.go.jp/park/shiretoko/index.html",
+    "tags": [
+      "natureza",
+      "parque nacional",
+      "vida selvagem",
+      "Hokkaido"
+    ]
+  },
+  {
+    "nome": "Akarenga Soko (Armazéns de Tijolo Vermelho)",
+    "descricao": "Complexo de armazéns históricos à beira-mar em Yokohama, restaurados e convertidos em shopping centers, restaurantes e locais de eventos.",
+    "ano": "1911",
+    "link": "https://www.yokohama-akarenga.jp/",
+    "tags": [
+      "compras",
+      "histórico",
+      "Yokohama",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Museu Subterrâneo de Arte de Chichu",
+    "descricao": "Um museu de arte em Naoshima, projetado por Tadao Ando, quase totalmente subterrâneo para não interferir na paisagem natural da ilha.",
+    "ano": "2004",
+    "link": "https://benesse-artsite.jp/en/art/chichu.html",
+    "tags": [
+      "museu",
+      "arte moderna",
+      "arquitetura",
+      "ilha"
+    ]
+  },
+  {
+    "nome": "Templo Zojo-ji",
+    "descricao": "Principal templo do Budismo Jodo na região de Kanto, famoso por seu portão Sangedatsu e por estar situado ao lado da Torre de Tóquio, contrastando o antigo e o novo.",
+    "ano": "1393",
+    "link": "https://www.zojoji.or.jp/",
+    "tags": [
+      "templo",
+      "Budismo",
+      "histórico",
+      "Tóquio"
+    ]
+  },
+  {
+    "nome": "Biblioteca Internacional de Cultura de Livros em Kodomo",
+    "descricao": "Uma biblioteca nacional para crianças, especializada em literatura infantil, localizada em um edifício histórico restaurado e projetado parcialmente por Tadao Ando.",
+    "ano": "2000",
+    "link": "https://www.kodomo.go.jp/",
+    "tags": [
+      "biblioteca",
+      "arquitetura",
+      "cultura",
+      "literatura"
+    ]
+  },
+  {
+    "nome": "Torre de Tokyo",
+    "descricao": "Imponente torre de comunicação e observação, símbolo icônico da modernidade japonesa.",
+    "ano": "1958",
+    "link": "https://www.tokyotower.co.jp",
+    "tags": [
+      "torre",
+      "observação",
+      "marco",
+      "tóquio"
+    ]
+  },
+  {
+    "nome": "Aquário de Nagoya",
+    "descricao": "Um dos maiores aquários urbanos do Japão, famoso por seus shows de golfinhos e orcas.",
+    "ano": "1992",
+    "link": "https://www.nagoyaaqua.jp",
+    "tags": [
+      "aquário",
+      "vida marinha",
+      "lazer",
+      "nagoya"
+    ]
+  },
+  {
+    "nome": "Parque de Nara",
+    "descricao": "Lar de centenas de veados sika domesticados que perambulam livremente, sendo um patrimônio natural e cultural.",
+    "ano": "1880",
+    "link": "https://www.pref.nara.jp",
+    "tags": [
+      "parque",
+      "natureza",
+      "veados",
+      "santuário"
+    ]
+  },
+  {
+    "nome": "Parque Aquático Nagashima SpaLand",
+    "descricao": "Enorme complexo de entretenimento, conhecido por suas montanhas-russas radicais e parque aquático.",
+    "ano": "1966",
+    "link": "https://www.nagashima-onsen.co.jp",
+    "tags": [
+      "parque de diversões",
+      "montanha-russa",
+      "lazer",
+      "hot spring"
+    ]
+  },
+  {
+    "nome": "Kinkakuji (Pavilhão Dourado) - Kyoto",
+    "descricao": "Templo Zen coberto por folhas de ouro, refletindo na lagoa Kyōko-chi. Um Patrimônio Mundial da UNESCO.",
+    "ano": "1397",
+    "link": "https://www.shokoku-ji.jp",
+    "tags": [
+      "templo",
+      "patrimônio",
+      "zen",
+      "kyoto",
+      "ouro"
+    ]
+  },
+  {
+    "nome": "Ponte Akashi Kaikyō",
+    "descricao": "A ponte suspensa mais longa do mundo, ligando Honshu e Awaji, uma maravilha da engenharia moderna.",
+    "ano": "1998",
+    "link": "https://www.jb-honshi.co.jp",
+    "tags": [
+      "ponte",
+      "engenharia",
+      "arquitetura",
+      "marco"
+    ]
+  },
+  {
+    "nome": "Museu Nacional de Arte Moderna de Kyoto (MoMAK)",
+    "descricao": "Abriga coleções de arte japonesa e ocidental, com foco em pinturas, esculturas e artesanato.",
+    "ano": "1963",
+    "link": "https://www.momak.go.jp",
+    "tags": [
+      "museu",
+      "arte moderna",
+      "cultura",
+      "kyoto"
+    ]
+  },
+  {
+    "nome": "Templo Kiyomizu-dera",
+    "descricao": "Templo budista famoso por seu grande palco de madeira que se projeta sobre a encosta, oferecendo vistas espetaculares de Kyoto.",
+    "ano": "778",
+    "link": "https://www.kiyomizu-dera.or.jp",
+    "tags": [
+      "templo",
+      "budismo",
+      "patrimônio",
+      "kyoto"
+    ]
+  },
+  {
+    "nome": "Monte Fuji",
+    "descricao": "O pico mais alto do Japão e um cone vulcânico quase perfeitamente simétrico, sagrado e inspiração para a arte japonesa.",
+    "ano": "N/A",
+    "link": "https://www.fujisan-climb.jp",
+    "tags": [
+      "montanha",
+      "natureza",
+      "escalada",
+      "patrimônio",
+      "vulcão"
+    ]
+  },
+  {
+    "nome": "Jardim Kenrokuen",
+    "descricao": "Considerado um dos 'Três Grandes Jardins do Japão', famoso por sua beleza cênica ao longo das quatro estações.",
+    "ano": "1676",
+    "link": "https://www.pref.ishikawa.jp",
+    "tags": [
+      "jardim",
+      "paisagismo",
+      "natureza",
+      "kanazawa"
+    ]
+  },
+  {
+    "nome": "Cabo Kamui",
+    "descricao": "Local pitoresco em Hokkaido, conhecido por suas impressionantes falésias e a cor azul turquesa intensa do Mar do Japão.",
+    "ano": "N/A",
+    "link": "https://www.kanko-shakotan.jp",
+    "tags": [
+      "cabo",
+      "hokkaido",
+      "natureza selvagem",
+      "paisagem"
+    ]
+  },
+  {
+    "nome": "Castelo de Matsumoto",
+    "descricao": "Um dos castelos mais antigos e mais bem preservados do Japão, apelidado de 'O Corvo' devido à sua aparência preta e elegante.",
+    "ano": "1593",
+    "link": "https://www.matsumoto-castle.jp",
+    "tags": [
+      "castelo",
+      "história",
+      "arquitetura",
+      "samurai"
+    ]
+  },
+  {
+    "nome": "Biblioteca Nakanoshima de Osaka",
+    "descricao": "Uma biblioteca pública de estilo renascentista, conhecida por sua impressionante arquitetura ocidental e vasta coleção histórica.",
+    "ano": "1904",
+    "link": "https://www.library.pref.osaka.jp",
+    "tags": [
+      "biblioteca",
+      "arquitetura",
+      "história",
+      "patrimônio"
+    ]
+  },
+  {
+    "nome": "Museu de Arte Nezu",
+    "descricao": "Notável por sua coleção de arte pré-moderna asiática e um vasto jardim tradicional japonês escondido no coração de Tóquio.",
+    "ano": "1941",
+    "link": "https://www.nezu-muse.or.jp",
+    "tags": [
+      "museu",
+      "arte asiática",
+      "jardim",
+      "tóquio"
+    ]
+  },
+  {
+    "nome": "Parque Memorial da Paz de Hiroshima",
+    "descricao": "Um parque dedicado à memória das vítimas do bombardeio atômico, incluindo o Domo da Bomba Atômica.",
+    "ano": "1954",
+    "link": "https://hpmm.jp",
+    "tags": [
+      "memorial",
+      "história",
+      "paz",
+      "parque"
+    ]
+  },
+  {
+    "nome": "Caminho Nakasendo",
+    "descricao": "Antiga rota postal do período Edo, agora popular para caminhadas que atravessam vilarejos históricos preservados como Tsumago e Magome.",
+    "ano": "1603",
+    "link": "https://www.nakasendo.info",
+    "tags": [
+      "trilha",
+      "caminhada",
+      "história",
+      "vilarejo"
+    ]
+  },
+  {
+    "nome": "Vila Histórica de Shirakawa-go",
+    "descricao": "Famosa por suas casas tradicionais em estilo Gassho-zukuri (mãos em oração), Patrimônio Mundial da UNESCO.",
+    "ano": "N/A",
+    "link": "https://shirakawa-go.gr.jp",
+    "tags": [
+      "patrimônio",
+      "arquitetura",
+      "vilarejo",
+      "cultural"
+    ]
+  },
+  {
+    "nome": "Grande Buda de Kamakura (Kōtoku-in)",
+    "descricao": "Estátua monumental de bronze de Amida Buda, um ícone da cidade de Kamakura e da arte budista.",
+    "ano": "1252",
+    "link": "https://www.kotoku-in.jp",
+    "tags": [
+      "buda",
+      "estátua",
+      "templo",
+      "religioso",
+      "kamakura"
+    ]
+  },
+  {
+    "nome": "Ilha de Arte de Naoshima",
+    "descricao": "Ilha conhecida mundialmente por seus museus de arte moderna, instalações arquitetônicas e paisagens costeiras.",
+    "ano": "1992",
+    "link": "https://benesse-artsite.jp",
+    "tags": [
+      "arte contemporânea",
+      "ilha",
+      "arquitetura",
+      "museu"
+    ]
+  },
+  {
+    "nome": "Museu Edo-Tóquio",
+    "descricao": "Museu que apresenta a história, cultura e estilo de vida de Tóquio (anteriormente Edo) desde o período Edo até os dias atuais.",
+    "ano": "1993",
+    "link": "https://www.edo-tokyo-museum.or.jp",
+    "tags": [
+      "museu",
+      "história",
+      "cultura",
+      "exposição"
+    ]
+  },
+  {
+    "nome": "Jardim Rikugi-en",
+    "descricao": "Um dos mais belos jardins paisagísticos da era Edo em Tóquio, projetado para replicar cenas de poemas japoneses.",
+    "ano": "1702",
+    "link": "https://www.tokyo-park.or.jp",
+    "tags": [
+      "jardim",
+      "paisagismo",
+      "tóquio",
+      "natureza"
+    ]
+  },
+  {
+    "nome": "Kura Sushi",
+    "descricao": "Cadeia popular de restaurantes de sushi de esteira, conhecida por seu sistema automatizado e pratos de qualidade acessível.",
+    "ano": "1977",
+    "link": "https://www.kurasushi.co.jp",
+    "tags": [
+      "restaurante",
+      "gastronomia",
+      "sushi",
+      "moderno"
+    ]
+  },
+  {
+    "nome": "Teatro Kabuki-za",
+    "descricao": "O principal teatro de Tóquio dedicado à arte tradicional Kabuki, oferecendo performances dramáticas e coloridas.",
+    "ano": "1889",
+    "link": "https://www.kabuki-za.co.jp",
+    "tags": [
+      "teatro",
+      "kabuki",
+      "arte cultural",
+      "espetáculo",
+      "ginza"
+    ]
+  },
+  {
+    "nome": "Observatório Panorâmico de Tóquio (Ponto Vermelho)",
+    "descricao": "Famosa torre de comunicação e observação, inspirada na Torre Eiffel, oferecendo vistas espetaculares da metrópole de Tóquio.",
+    "ano": "1958",
+    "link": "https://www.tokyotower.co.jp/",
+    "tags": [
+      "torre",
+      "observatorio",
+      "marco",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Aquário Portuário da Cidade de Nagoya",
+    "descricao": "Um dos maiores aquários do Japão, conhecido por seus espetáculos de golfinhos e pela vasta coleção de vida marinha polar e tropical.",
+    "ano": "1992",
+    "link": "https://www.nagoyaaqua.jp/",
+    "tags": [
+      "aquario",
+      "vida_marinha",
+      "familia",
+      "nagoya"
+    ]
+  },
+  {
+    "nome": "Jardim dos Cervos de Nara",
+    "descricao": "Extenso parque público famoso por abrigar mais de mil cervos selvagens Sika, que vagam livremente e são considerados mensageiros dos deuses.",
+    "ano": "1880",
+    "link": "https://www.pref.nara.jp/dd.aspx?menuid=2306",
+    "tags": [
+      "parque",
+      "cervos",
+      "natureza",
+      "patrimonio"
+    ]
+  },
+  {
+    "nome": "Complexo de Lazer Nagashima Resort",
+    "descricao": "Enorme complexo de entretenimento que inclui um dos maiores parques de diversões do Japão, banhos termais e hotéis de luxo.",
+    "ano": "1966",
+    "link": "https://www.nagashima-onsen.co.jp/",
+    "tags": [
+      "parque_tematico",
+      "montanhas_russas",
+      "spa",
+      "resort"
+    ]
+  },
+  {
+    "nome": "Templo Rokuon-ji (Pavilhão Áureo)",
+    "descricao": "Templo Zen Budista cuja estrutura superior é coberta em folha de ouro puro, refletindo-se magnificamente no lago Kyōko-chi.",
+    "ano": "1397",
+    "link": "http://www.shokoku-ji.jp/kinkakuji/",
+    "tags": [
+      "templo",
+      "patrimonio_mundial",
+      "zen",
+      "kyoto",
+      "jardim"
+    ]
+  },
+  {
+    "nome": "Azabudai Hills",
+    "descricao": "Complexo urbano moderno e sustentável, abrigando arranha-céus, residências, escritórios, lojas de luxo e o Jardim Central.",
+    "ano": "2023",
+    "link": "https://www.azabudai-hills.com/",
+    "tags": [
+      "arranha-ceu",
+      "moderno",
+      "compras",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Santuário Izumo Taisha",
+    "descricao": "Um dos santuários xintoístas mais antigos e importantes do Japão, dedicado a Okuninushi, o deus do casamento e da felicidade.",
+    "ano": "650",
+    "link": "https://izumooyashiro.or.jp/",
+    "tags": [
+      "santuario",
+      "xintoismo",
+      "historico",
+      "patrimonio"
+    ]
+  },
+  {
+    "nome": "Castelo de Osaka",
+    "descricao": "Um dos castelos mais famosos e importantes do Japão, desempenhando um papel fundamental na unificação do país no século XVI.",
+    "ano": "1583",
+    "link": "https://www.osakacastle.net/",
+    "tags": [
+      "castelo",
+      "historico",
+      "museu",
+      "osaka"
+    ]
+  },
+  {
+    "nome": "Templo Ryoan-ji",
+    "descricao": "Templo budista Zen mundialmente famoso por seu jardim de pedras secas (kare-sansui), cuja composição exata é um mistério até hoje.",
+    "ano": "1450",
+    "link": "http://www.ryoanji.jp/",
+    "tags": [
+      "templo_zen",
+      "jardim_de_pedras",
+      "kyoto",
+      "contemplacao"
+    ]
+  },
+  {
+    "nome": "Templo Todai-ji",
+    "descricao": "Abriga o Daibutsu (Grande Buda) de Nara, uma das maiores estátuas de bronze de Buda do mundo, dentro de um dos maiores edifícios de madeira existentes.",
+    "ano": "752",
+    "link": "http://www.todaiji.or.jp/",
+    "tags": [
+      "templo",
+      "buda",
+      "patrimonio_mundial",
+      "arquitetura_de_madeira"
+    ]
+  },
+  {
+    "nome": "Sky Garden Landmark Tower",
+    "descricao": "Localizado em Yokohama, este é um dos edifícios mais altos do Japão, com um observatório que oferece vistas de 360 graus do Monte Fuji e Tóquio.",
+    "ano": "1993",
+    "link": "https://www.yokohama-landmark.jp/",
+    "tags": [
+      "observatorio",
+      "arranha-ceu",
+      "yokohama",
+      "vista_panoramica"
+    ]
+  },
+  {
+    "nome": "Museu Nacional de Arte Ocidental (NMWA)",
+    "descricao": "Coleção de arte ocidental, de obras medievais a modernas, alojada em um edifício projetado pelo renomado arquiteto Le Corbusier.",
+    "ano": "1959",
+    "link": "https://www.nmwa.go.jp/",
+    "tags": [
+      "museu_de_arte",
+      "patrimonio_mundial",
+      "arquitetura",
+      "colecao_ocidental"
+    ]
+  },
+  {
+    "nome": "Jardim Hama-rikyu",
+    "descricao": "Um belo jardim paisagístico à beira-mar em Tóquio, com uma casa de chá flutuante onde se pode apreciar a vista da Baía de Tóquio.",
+    "ano": "1707",
+    "link": "https://www.tokyo-park.or.jp/park/format/index028.html",
+    "tags": [
+      "jardim",
+      "casa_de_cha",
+      "historico",
+      "natureza"
+    ]
+  },
+  {
+    "nome": "Ilha Hashima (Gunjima)",
+    "descricao": "Uma ilha deserta e abandonada, famosa por suas ruínas de concreto e por ter sido uma mina de carvão densamente povoada; conhecida como 'Ilha Navio de Guerra'.",
+    "ano": "1890",
+    "link": "https://www.hashima-kanko.com/",
+    "tags": [
+      "ilha",
+      "patrimonio_mundial",
+      "ruinas",
+      "historia_industrial"
+    ]
+  },
+  {
+    "nome": "Okinawa Churaumi Aquarium",
+    "descricao": "Conhecido pelo Tanque Kuroshio Sea, o segundo maior tanque de acrílico do mundo, abrigando tubarões-baleia e raias mantas gigantes.",
+    "ano": "2002",
+    "link": "https://churaumi.okinawa/",
+    "tags": [
+      "aquario",
+      "okinawa",
+      "vida_marinha",
+      "atracaoturistica"
+    ]
+  },
+  {
+    "nome": "Estação de Quioto (Arquitetura)",
+    "descricao": "Terminal de transporte maciço e centro comercial, famoso por sua arquitetura futurista de aço e vidro, projetada por Hiroshi Hara.",
+    "ano": "1997",
+    "link": "https://www.kyoto-station-building.co.jp/",
+    "tags": [
+      "arquitetura_moderna",
+      "transporte",
+      "compras",
+      "marco_urbano"
+    ]
+  },
+  {
+    "nome": "Caminhada em Shirakawa-go",
+    "descricao": "Vila histórica rural famosa pelas suas casas tradicionais em estilo Gassho-zukuri, com telhados inclinados que parecem mãos em oração.",
+    "ano": "1600",
+    "link": "https://shirakawa-go.gr.jp/",
+    "tags": [
+      "patrimonio_mundial",
+      "vila_historica",
+      "arquitetura_tradicional",
+      "rural"
+    ]
+  },
+  {
+    "nome": "Templo Tenryu-ji",
+    "descricao": "Principal templo Zen de Quioto, destacando-se por seu magnífico jardim paisagístico, que incorpora a paisagem natural de Arashiyama.",
+    "ano": "1339",
+    "link": "https://www.tenryuji.com/",
+    "tags": [
+      "templo_zen",
+      "jardim_paisagistico",
+      "patrimonio_mundial",
+      "kyoto"
+    ]
+  },
+  {
+    "nome": "Nakagin Capsule Tower (Metabolismo)",
+    "descricao": "Exemplo icônico da arquitetura Metabólica Japonesa, consistindo em pequenos apartamentos modulares 'cápsulas'. (Atualmente em desmonte, mas relevante historicamente).",
+    "ano": "1972",
+    "link": "https://www.nakagincapsuletower.com/",
+    "tags": [
+      "arquitetura",
+      "historico",
+      "urbano",
+      "design_futurista"
+    ]
+  },
+  {
+    "nome": "Passagem de Pedestres de Shibuya (Shibuya Crossing)",
+    "descricao": "O cruzamento de pedestres mais movimentado do mundo, um símbolo vibrante da energia urbana e da cultura pop de Tóquio.",
+    "ano": "1973",
+    "link": "https://www.city.shibuya.tokyo.jp/",
+    "tags": [
+      "urbano",
+      "cultura_pop",
+      "fotografia",
+      "marco"
+    ]
+  },
+  {
+    "nome": "Museu de Arte da Ilha de Naoshima (Naoshima Art Site)",
+    "descricao": "Coleção de museus de arte contemporânea e instalações ao ar livre, transformando a ilha em um destino de arte internacional.",
+    "ano": "1992",
+    "link": "https://benesse-artsite.jp/",
+    "tags": [
+      "arte_contemporanea",
+      "ilha",
+      "museu",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Kanda Myojin Shrine",
+    "descricao": "Santuário xintoísta em Tóquio, famoso por proteger empresários e, mais recentemente, por oferecer amuletos de proteção para tecnologia e IT.",
+    "ano": "730",
+    "link": "https://www.kandamyoujin.or.jp/",
+    "tags": [
+      "santuario",
+      "xintoismo",
+      "cultura_pop",
+      "historico"
+    ]
+  },
+  {
+    "nome": "Cabo Kamui (Shakotan)",
+    "descricao": "Uma deslumbrante formação rochosa e península em Hokkaido, famosa pelas suas trilhas cênicas e a impressionante 'água azul de Shakotan'.",
+    "ano": "Natural",
+    "link": "https://www.kanko-shakotan.jp/kamuimisaki/",
+    "tags": [
+      "natureza",
+      "paisagem_maritima",
+      "hokkaido",
+      "trilha"
+    ]
+  },
+  {
+    "nome": "Tokyo Skytree",
+    "descricao": "Uma torre de transmissão e observação na capital, sendo a estrutura mais alta do Japão, oferecendo vistas panorâmicas espetaculares.",
+    "ano": "2012",
+    "link": "https://www.tokyo-skytree.jp/en/",
+    "tags": [
+      "torre",
+      "observatorio",
+      "arquitetura",
+      "moderno"
+    ]
+  },
+  {
+    "nome": "Aquário Kaiyukan de Osaka",
+    "descricao": "Um dos maiores aquários públicos do mundo, famoso por seu tanque central que simula o Oceano Pacífico e abriga um tubarão-baleia.",
+    "ano": "1990",
+    "link": "https://www.kaiyukan.com/",
+    "tags": [
+      "aquario",
+      "vida-marinha",
+      "familia",
+      "osaka"
+    ]
+  },
+  {
+    "nome": "Jardim Isuien",
+    "descricao": "Um belo e tradicional jardim japonês adjacente ao Parque de Nara, apresentando paisagens meticulosamente cuidadas e uma casa de chá histórica.",
+    "ano": "1673",
+    "link": "http://www.isuien.or.jp/",
+    "tags": [
+      "jardim",
+      "historico",
+      "paisagismo",
+      "natureza"
+    ]
+  },
+  {
+    "nome": "Tobu Super Pool",
+    "descricao": "Um dos maiores parques aquáticos do Japão, conhecido por suas piscinas de ondas e escorregadores radicais, parte do Tobu Zoo Park.",
+    "ano": "1989",
+    "link": "https://www.tobuzoo.com/pool/",
+    "tags": [
+      "parque-aquatico",
+      "lazer",
+      "familia",
+      "verao"
+    ]
+  },
+  {
+    "nome": "Ryozen Kannon (Kyoto)",
+    "descricao": "Um monumento budista memorial de guerra em Kyoto, que apresenta uma impressionante estátua branca de Kannon, a deusa da Misericórdia.",
+    "ano": "1955",
+    "link": "http://www.ryozen-kwannon.jp/",
+    "tags": [
+      "templo",
+      "monumento",
+      "historia",
+      "kyoto"
+    ]
+  },
+  {
+    "nome": "Fuji-Q Highland",
+    "descricao": "Um parque de diversões famoso por suas montanhas-russas recordistas e sua localização privilegiada com vistas para o Monte Fuji.",
+    "ano": "1968",
+    "link": "https://www.fujiq.jp/en/",
+    "tags": [
+      "parque-tematico",
+      "aventura",
+      "montanha-russa",
+      "familia"
+    ]
+  },
+  {
+    "nome": "LEGOLAND Japan Resort",
+    "descricao": "Um resort e parque temático dedicado à marca LEGO, focado em atrações interativas e adequado para crianças pequenas e famílias.",
+    "ano": "2017",
+    "link": "https://www.legoland.jp/en/",
+    "tags": [
+      "parque-tematico",
+      "familia",
+      "lego",
+      "lazer"
+    ]
+  },
+  {
+    "nome": "Tokyu Kabukicho Tower",
+    "descricao": "Um arranha-céu recém-inaugurado em Shinjuku, Tóquio, que abriga hotéis de luxo, cinemas, teatros, salas de concerto e restaurantes.",
+    "ano": "2023",
+    "link": "https://www.tokyu-kabukicho-tower.jp/en/",
+    "tags": [
+      "entretenimento",
+      "arquitetura",
+      "vida-noturna",
+      "moderno"
+    ]
+  },
+  {
+    "nome": "Shibuya Parco",
+    "descricao": "Um importante centro comercial e cultural, notável por abrigar o CyberSpace Shibuya, um espaço dedicado à cultura pop e e-sports.",
+    "ano": "2019",
+    "link": "https://shibuya.parco.jp/",
+    "tags": [
+      "compras",
+      "cultura-pop",
+      "moda",
+      "moderno"
+    ]
+  },
+  {
+    "nome": "teamLab Borderless (Azabudai Hills)",
+    "descricao": "O novo museu de arte digital imersiva do coletivo teamLab, com obras de luz interativas que transcendem fronteiras físicas.",
+    "ano": "2024",
+    "link": "https://www.teamlab.art/e/borderless-azabudai/",
+    "tags": [
+      "museu",
+      "arte-digital",
+      "imersivo",
+      "tecnologia"
+    ]
+  },
+  {
+    "nome": "Desfiladeiro de Takachiho",
+    "descricao": "Um desfiladeiro cênico em Miyazaki, famoso por suas paredes basálticas colunares e cachoeira de Manai, popular para passeios de barco.",
+    "ano": "Natural",
+    "link": "https://www.miyazaki-city.tourism/takachiho-gorge/",
+    "tags": [
+      "natureza",
+      "geologia",
+      "passeio-de-barco",
+      "mitologia"
+    ]
+  },
+  {
+    "nome": "Museu Manga de Kitakyushu",
+    "descricao": "Um museu dedicado à história do manga e à cultura pop japonesa, com foco na rica tradição da região de Kitakyushu.",
+    "ano": "2012",
+    "link": "https://www.ktqmm.jp/",
+    "tags": [
+      "museu",
+      "cultura-pop",
+      "manga",
+      "anime"
+    ]
+  },
+  {
+    "nome": "Okinawa World",
+    "descricao": "Um parque temático cultural que preserva a história e o folclore de Ryukyu, incluindo a Caverna Gyokusendo e uma réplica de vila antiga.",
+    "ano": "1972",
+    "link": "https://www.gyokusendo.co.jp/okinawaworld/",
+    "tags": [
+      "cultura-ryukyu",
+      "caverna",
+      "historia",
+      "parque-tematico"
+    ]
+  },
+  {
+    "nome": "Jardim Sankeien",
+    "descricao": "Um vasto jardim japonês em Yokohama que exibe edifícios históricos restaurados, como pagodes e casas de chá, de diversas partes do Japão.",
+    "ano": "1906",
+    "link": "http://www.sankeien.or.jp/en/",
+    "tags": [
+      "jardim",
+      "historico",
+      "arquitetura",
+      "yokohama"
+    ]
+  },
+  {
+    "nome": "Resort de Esqui Zao Onsen",
+    "descricao": "Famoso pelas 'Monstros de Gelo' (Juhyo) no inverno e pelas fontes termais (onsen) ricas em minerais, ideal para esportes de inverno e relaxamento.",
+    "ano": "1914",
+    "link": "https://www.zao-ski.or.jp/",
+    "tags": [
+      "esqui",
+      "onsen",
+      "inverno",
+      "natureza"
+    ]
+  },
+  {
+    "nome": "Torres JR Central (Nagoya)",
+    "descricao": "Um complexo de arranha-céus na Estação de Nagoya, com lojas de departamento, hotéis e um observatório que oferece vistas da cidade.",
+    "ano": "1999",
+    "link": "https://www.towers.jp/",
+    "tags": [
+      "compras",
+      "arquitetura",
+      "transporte",
+      "nagoya"
+    ]
+  },
+  {
+    "nome": "Fábrica de Kappa Ebisen (Calbee)",
+    "descricao": "Uma atração de turismo industrial onde os visitantes podem aprender sobre a fabricação dos famosos salgadinhos de camarão e criar sua própria versão.",
+    "ano": "2017",
+    "link": "https://www.calbee.co.jp/factory/",
+    "tags": [
+      "fabrica",
+      "gastronomia",
+      "tour-industrial",
+      "familia"
+    ]
+  },
+  {
+    "nome": "Templo de Hase-dera (Kamakura)",
+    "descricao": "Famoso por sua estátua dourada de onze cabeças de Kannon e seus jardins com vista para o oceano, popular especialmente na época das hortênsias.",
+    "ano": "736",
+    "link": "https://www.hasedera.jp/",
+    "tags": [
+      "templo",
+      "budismo",
+      "jardim",
+      "kamakura"
+    ]
+  },
+  {
+    "nome": "Kichi Kichi Omurice",
+    "descricao": "Um restaurante viral em Kyoto conhecido pelo chef que prepara um 'omurice' (omelete recheada de arroz) teatralmente perfeito na frente dos clientes.",
+    "ano": "2007",
+    "link": "https://kichi2.net/",
+    "tags": [
+      "restaurante",
+      "gastronomia",
+      "experiencia-culinaria",
+      "kyoto"
+    ]
+  },
+  {
+    "nome": "Templo Daigo-ji",
+    "descricao": "Um importante templo budista em Kyoto, Patrimônio Mundial da UNESCO, célebre por seu jardim e pagoda de cinco andares, e famoso por suas cerejeiras.",
+    "ano": "874",
+    "link": "https://www.daigoji.or.jp/",
+    "tags": [
+      "templo",
+      "unesco",
+      "cerejeira",
+      "historico"
+    ]
+  },
+  {
+    "nome": "Otaru Canal",
+    "descricao": "Um canal histórico na cidade de Otaru, Hokkaido, que se tornou um ponto turístico romântico com armazéns convertidos em lojas e restaurantes.",
+    "ano": "1923",
+    "link": "https://www.otaru.gr.jp/en/sightseeing/otaru-canal/",
+    "tags": [
+      "historico",
+      "romantico",
+      "arquitetura",
+      "hokkaido"
+    ]
+  },
+  {
+    "nome": "Parque Nacional Daisetsuzan",
+    "descricao": "O maior parque nacional do Japão, conhecido como 'o telhado de Hokkaido', ideal para caminhadas, observação da vida selvagem e montanhismo.",
+    "ano": "1934",
+    "link": "https://www.env.go.jp/en/nature/nps/park/daisetsuzan/",
+    "tags": [
+      "parque-nacional",
+      "natureza",
+      "montanhismo",
+      "vida-selvagem"
+    ]
+  },
+  {
+    "nome": "Templo Zenko-ji",
+    "descricao": "Um dos mais importantes e mais antigos locais de peregrinação budista no Japão, que abriga o primeiro Buda trazido ao país.",
+    "ano": "644",
+    "link": "https://www.zenkoji.jp/english/",
+    "tags": [
+      "templo",
+      "peregrinacao",
+      "budismo",
+      "historico"
+    ]
+  },
+  {
+    "nome": "Sky Tree Town Solamachi",
+    "descricao": "Um enorme complexo comercial e de entretenimento que fica na base da Tokyo Skytree, oferecendo lojas, restaurantes e um planetário.",
+    "ano": "2012",
+    "link": "https://www.tokyo-solamachi.jp/en/",
+    "tags": [
+      "compras",
+      "entretenimento",
+      "restaurante",
+      "lazer"
+    ]
+  },
+  {
+    "nome": "Aquário de Shinagawa",
+    "descricao": "Um aquário popular localizado no Parque Shinagawa Kumin, conhecido por seus túneis subaquáticos e shows de golfinhos e leões marinhos.",
+    "ano": "1991",
+    "link": "https://www.aquarium.gr.jp/",
+    "tags": [
+      "aquario",
+      "familia",
+      "vida-marinha",
+      "toquio"
+    ]
+  }
+]
