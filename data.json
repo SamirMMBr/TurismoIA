@@ -300,66 +300,6 @@
     ]
   },
   {
-    "nome": "Torre de Tokyo",
-    "descricao": "Uma torre de comunicação e observação, símbolo icônico da reconstrução pós-guerra do Japão, inspirada na Torre Eiffel.",
-    "ano": "1958",
-    "link": "https://www.tokyotower.co.jp/",
-    "tags": [
-      "observação",
-      "marco",
-      "arquitetura",
-      "histórico"
-    ]
-  },
-  {
-    "nome": "Aquário de Nagoya",
-    "descricao": "Um dos maiores aquários do Japão, famoso por suas piscinas de golfinhos e baleias orcas, oferecendo shows diários e programas educacionais.",
-    "ano": "1992",
-    "link": "https://www.nagoyaaqua.jp/",
-    "tags": [
-      "aquário",
-      "marinho",
-      "Nagoya",
-      "família"
-    ]
-  },
-  {
-    "nome": "Parque de Nara",
-    "descricao": "Um grande parque público onde vivem milhares de veados selvagens e dóceis, considerados mensageiros dos deuses xintoístas.",
-    "ano": "1880",
-    "link": "https://www.pref.nara.jp/1792.htm",
-    "tags": [
-      "parque",
-      "natureza",
-      "veados",
-      "histórico"
-    ]
-  },
-  {
-    "nome": "Parque Aquático Nagashima SpaLand",
-    "descricao": "Vasto complexo de entretenimento que inclui um parque de diversões com montanhas-russas radicais, parque aquático e instalações de onsen (águas termais).",
-    "ano": "1966",
-    "link": "https://www.nagashima-onsen.co.jp/",
-    "tags": [
-      "parque temático",
-      "águas termais",
-      "diversão",
-      "montanha-russa"
-    ]
-  },
-  {
-    "nome": "Kinkakuji (Pavilhão Dourado) - Kyoto",
-    "descricao": "Templo Zen Budista, cujo andar superior é completamente coberto por folha de ouro puro, refletindo-se poeticamente no lago Kyōko-chi.",
-    "ano": "1397",
-    "link": "https://www.shokoku-ji.jp/kinkakuji/",
-    "tags": [
-      "templo",
-      "patrimônio mundial",
-      "Zen",
-      "Kyoto"
-    ]
-  },
-  {
     "nome": "Jardim Nacional Shinjuku Gyoen",
     "descricao": "Um grande jardim que combina três estilos distintos: paisagem francesa formal, paisagem inglesa e tradicional japonesa, um oásis no centro de Tóquio.",
     "ano": "1906",
@@ -573,67 +513,6 @@
       "arquitetura",
       "cultura",
       "literatura"
-    ]
-  },
-  {
-    "nome": "Torre de Tokyo",
-    "descricao": "Imponente torre de comunicação e observação, símbolo icônico da modernidade japonesa.",
-    "ano": "1958",
-    "link": "https://www.tokyotower.co.jp",
-    "tags": [
-      "torre",
-      "observação",
-      "marco",
-      "tóquio"
-    ]
-  },
-  {
-    "nome": "Aquário de Nagoya",
-    "descricao": "Um dos maiores aquários urbanos do Japão, famoso por seus shows de golfinhos e orcas.",
-    "ano": "1992",
-    "link": "https://www.nagoyaaqua.jp",
-    "tags": [
-      "aquário",
-      "vida marinha",
-      "lazer",
-      "nagoya"
-    ]
-  },
-  {
-    "nome": "Parque de Nara",
-    "descricao": "Lar de centenas de veados sika domesticados que perambulam livremente, sendo um patrimônio natural e cultural.",
-    "ano": "1880",
-    "link": "https://www.pref.nara.jp",
-    "tags": [
-      "parque",
-      "natureza",
-      "veados",
-      "santuário"
-    ]
-  },
-  {
-    "nome": "Parque Aquático Nagashima SpaLand",
-    "descricao": "Enorme complexo de entretenimento, conhecido por suas montanhas-russas radicais e parque aquático.",
-    "ano": "1966",
-    "link": "https://www.nagashima-onsen.co.jp",
-    "tags": [
-      "parque de diversões",
-      "montanha-russa",
-      "lazer",
-      "hot spring"
-    ]
-  },
-  {
-    "nome": "Kinkakuji (Pavilhão Dourado) - Kyoto",
-    "descricao": "Templo Zen coberto por folhas de ouro, refletindo na lagoa Kyōko-chi. Um Patrimônio Mundial da UNESCO.",
-    "ano": "1397",
-    "link": "https://www.shokoku-ji.jp",
-    "tags": [
-      "templo",
-      "patrimônio",
-      "zen",
-      "kyoto",
-      "ouro"
     ]
   },
   {
@@ -856,67 +735,6 @@
     ]
   },
   {
-    "nome": "Observatório Panorâmico de Tóquio (Ponto Vermelho)",
-    "descricao": "Famosa torre de comunicação e observação, inspirada na Torre Eiffel, oferecendo vistas espetaculares da metrópole de Tóquio.",
-    "ano": "1958",
-    "link": "https://www.tokyotower.co.jp/",
-    "tags": [
-      "torre",
-      "observatorio",
-      "marco",
-      "arquitetura"
-    ]
-  },
-  {
-    "nome": "Aquário Portuário da Cidade de Nagoya",
-    "descricao": "Um dos maiores aquários do Japão, conhecido por seus espetáculos de golfinhos e pela vasta coleção de vida marinha polar e tropical.",
-    "ano": "1992",
-    "link": "https://www.nagoyaaqua.jp/",
-    "tags": [
-      "aquario",
-      "vida_marinha",
-      "familia",
-      "nagoya"
-    ]
-  },
-  {
-    "nome": "Jardim dos Cervos de Nara",
-    "descricao": "Extenso parque público famoso por abrigar mais de mil cervos selvagens Sika, que vagam livremente e são considerados mensageiros dos deuses.",
-    "ano": "1880",
-    "link": "https://www.pref.nara.jp/dd.aspx?menuid=2306",
-    "tags": [
-      "parque",
-      "cervos",
-      "natureza",
-      "patrimonio"
-    ]
-  },
-  {
-    "nome": "Complexo de Lazer Nagashima Resort",
-    "descricao": "Enorme complexo de entretenimento que inclui um dos maiores parques de diversões do Japão, banhos termais e hotéis de luxo.",
-    "ano": "1966",
-    "link": "https://www.nagashima-onsen.co.jp/",
-    "tags": [
-      "parque_tematico",
-      "montanhas_russas",
-      "spa",
-      "resort"
-    ]
-  },
-  {
-    "nome": "Templo Rokuon-ji (Pavilhão Áureo)",
-    "descricao": "Templo Zen Budista cuja estrutura superior é coberta em folha de ouro puro, refletindo-se magnificamente no lago Kyōko-chi.",
-    "ano": "1397",
-    "link": "http://www.shokoku-ji.jp/kinkakuji/",
-    "tags": [
-      "templo",
-      "patrimonio_mundial",
-      "zen",
-      "kyoto",
-      "jardim"
-    ]
-  },
-  {
     "nome": "Azabudai Hills",
     "descricao": "Complexo urbano moderno e sustentável, abrigando arranha-céus, residências, escritórios, lojas de luxo e o Jardim Central.",
     "ano": "2023",
@@ -1130,18 +948,6 @@
       "paisagem_maritima",
       "hokkaido",
       "trilha"
-    ]
-  },
-  {
-    "nome": "Tokyo Skytree",
-    "descricao": "Uma torre de transmissão e observação na capital, sendo a estrutura mais alta do Japão, oferecendo vistas panorâmicas espetaculares.",
-    "ano": "2012",
-    "link": "https://www.tokyo-skytree.jp/en/",
-    "tags": [
-      "torre",
-      "observatorio",
-      "arquitetura",
-      "moderno"
     ]
   },
   {
@@ -1432,4 +1238,5 @@
       "toquio"
     ]
   }
+
 ]
