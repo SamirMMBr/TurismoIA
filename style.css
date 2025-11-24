@@ -19,7 +19,7 @@ html {
 body {
     margin: 0; /* Remove a margem padrão do body */
     /* A linha abaixo define a imagem de fundo com um gradiente branco sutil por cima */
-    background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('./japanTurism.png');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('blob/main/japanTurism.png');
     background-size: cover; /* Faz a imagem caber inteiramente na área */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Impede que a imagem se repita */
@@ -256,3 +256,4 @@ article span {
     }
 
 }
+
