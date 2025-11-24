@@ -1,7 +1,7 @@
 # Sobre o Projeto "Turismo pelo Japão"
 Este é um projeto desenvolvido durante a Imersão Alura, com o auxílio do Google Gemini, por Samir Morera Morimoto.
 
-[🔗 **Acesse o Projeto Online (GitHub Pages)**]([https://samirmmbr.github.io/TurismoIA/])
+[🔗 **Acesse o Projeto Online (GitHub Pages)**](https://samirmmbr.github.io/TurismoIA/)
 
 
 ## Objetivo
